@@ -1,0 +1,15 @@
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\bin\Debug\Socket.exe.config
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\bin\Debug\Socket.exe
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\bin\Debug\Socket.pdb
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket.csprojAssemblyReference.cache
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\MainWindow.g.cs
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\App.g.cs
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket_MarkupCompile.cache
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket_MarkupCompile.lref
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\MainWindow.baml
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket.g.resources
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket.Properties.Resources.resources
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket.csproj.GenerateResource.cache
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket.exe
+C:\Users\william.covella\Desktop\Visual Studio SeR\Socket\Socket\obj\Debug\Socket.pdb
